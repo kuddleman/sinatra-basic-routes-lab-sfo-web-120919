@@ -1,0 +1,16 @@
+current directory: /Users/Donny/Dropbox/Flatiron_Coding_School/sinatra-basic-routes-lab-sfo-web-120919/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/Users/Donny/.rvm/rubies/ruby-2.6.1/bin/ruby -I /Users/Donny/.rvm/rubies/ruby-2.6.1/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200104-25460-pdivuw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/Donny/Dropbox/Flatiron_Coding_School/sinatra-basic-routes-lab-sfo-web-120919/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/Donny/Dropbox/Flatiron_Coding_School/sinatra-basic-routes-lab-sfo-web-120919/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/Donny/Dropbox/Flatiron_Coding_School/sinatra-basic-routes-lab-sfo-web-120919/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20200104-25460-nng48v
